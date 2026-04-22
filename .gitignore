@@ -1,0 +1,29 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model checkpoints and weights
+saved_model/
+*.pt
+*.pth
+
+# Data files
+data/
+*.csv
+*.pkl
+
+# Logs
+run/log/
+log/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Claude Code
+.claude/
